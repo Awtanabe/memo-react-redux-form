@@ -1,5 +1,6 @@
 // exportする
-export default READ_MEMO = "READ_MEMO"
+//アクション定義
+export const READ_MEMOS = "READ_MEMOS";
 export const READ_MEMO = "READ_MEMO";
 export const ADD_MEMO = "ADD_MEMO";
 export const UPDATE_MEMO = "UPDATE_MEMO";
